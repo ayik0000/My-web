@@ -1,0 +1,3 @@
+@Imports MyWebpage.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
